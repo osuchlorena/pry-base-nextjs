@@ -80,7 +80,6 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
                   </p>
                 ))}
             </div>
-
           </div>
         </div>
 
@@ -132,7 +131,6 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
                   </p>
                 ))}
             </div>
-
           </div>
         </fieldset>
       </div>
